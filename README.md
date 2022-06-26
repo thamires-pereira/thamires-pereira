@@ -8,10 +8,9 @@
   ##
   
 </div>
+<div style="display: inline_block"><br>
+<a align="right">
+<img align="right" src=https://i.picasion.com/pic92/7080c12d64e3867bb412e4fb8f5d6880.gif>
+</p>
 
-<a align="center">
-
-<img src=https://media.tenor.com/images/1c69172b3d1678a33f71ee380760d353/tenor.gif>
-</div>
-<a align="center">
-<strong>See you soon!</strong> </a>
+![Snake animation](https://github.com/thamires-pereira/thamires-pereira/blob/output/github-contribution-grid-snake.svg)

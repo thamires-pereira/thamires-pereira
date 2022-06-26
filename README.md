@@ -11,7 +11,7 @@
 </div>
 <div style="display: inline_block"><br>
 <a align="center">
-<img align="center" src=https://64.media.tumblr.com/7d1af5878f895c9ac29cfceb2726b276/cf07048503b0b4b2-ac/s640x960/66c00c3f955c5a09a0400fd0bb2562992da0fef0.gifv>
-</p>
+<img align="center" src=https://gifs.eco.br/wp-content/uploads/2022/02/gifs-de-boneco-pensando-8.gif>
+ </p>
 
 ![Snake animation](https://github.com/thamires-pereira/thamires-pereira/blob/output/github-contribution-grid-snake.svg)

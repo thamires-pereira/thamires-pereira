@@ -10,8 +10,8 @@
   
 </div>
 <div style="display: inline_block"><br>
-<a align="center">
-<img align="center" src=https://gifs.eco.br/wp-content/uploads/2022/02/gifs-de-boneco-pensando-8.gif>
- </p>
+<a align="right">
+<img align="right" src=https://i.picasion.com/pic92/7080c12d64e3867bb412e4fb8f5d6880.gif>
+</p>
 
 ![Snake animation](https://github.com/thamires-pereira/thamires-pereira/blob/output/github-contribution-grid-snake.svg)

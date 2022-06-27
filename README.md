@@ -1,4 +1,7 @@
-## Ei. Aqui é Thamires!
+---
+
+### Ei, 😉👋
+### Aqui é Thamires!
 ---
 <div>
   <a href="https://github.com/thamires-pereira">
@@ -22,5 +25,8 @@
  </p>
  
   ---
+  <p align="center">
+<strong>See you soon!</strong> 
+  </p>
   
 ![Snake animation](https://github.com/thamires-pereira/thamires-pereira/blob/output/github-contribution-grid-snake.svg)

@@ -1,11 +1,6 @@
 ## Hello, I'm Thamires Pereira!
 
-<div>
-  <a href="https://github.com/thamires-pereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamires-pereira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamires-pereira&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamires-pereira&langs_count=12&layout=compact&theme=dark&include" align="right">
 
 ### > Programming Languages I am currently learning
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title = "css"/></code>
